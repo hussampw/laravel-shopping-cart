@@ -1,5 +1,5 @@
 {
-    "name": "anayarojo/shoppingcart",
+    "name": "hussampw/shoppingcart",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
@@ -15,9 +15,9 @@
             "homepage": "https://skyraptor.eu/"
         },
         {
-            "name": "Raul Anaya Rojo",
-            "email": "isw.anayarojo@gmail.com",
-            "homepage": "https://anayarojo.net/"
+            "name": "Hussam Hussein",
+            "email": "me@hussam.pw",
+            "homepage": "https://hussam.pw/"
         }
     ],
     "require": {
