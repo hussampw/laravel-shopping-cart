@@ -1,19 +1,19 @@
 
 ## LaravelShoppingcart
-[![codecov](https://codecov.io/gh/anayarojo/laravel-shopping-cart/branch/master/graph/badge.svg)](https://codecov.io/gh/anayarojo/laravel-shopping-cart)
-[![Latest Stable Version](https://poser.pugx.org/anayarojo/shoppingcart/v/stable)](https://packagist.org/packages/anayarojo/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/anayarojo/shoppingcart/v/unstable)](https://packagist.org/packages/anayarojo/shoppingcart)
-[![License](https://poser.pugx.org/anayarojo/shoppingcart/license)](https://packagist.org/packages/anayarojo/shoppingcart)
+[![codecov](https://codecov.io/gh/hussampw/laravel-shopping-cart/branch/master/graph/badge.svg)](https://codecov.io/gh/hussampw/laravel-shopping-cart)
+[![Latest Stable Version](https://poser.pugx.org/hussampw/shoppingcart/v/stable)](https://packagist.org/packages/hussampw/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/hussampw/shoppingcart/v/unstable)](https://packagist.org/packages/hussampw/shoppingcart)
+[![License](https://poser.pugx.org/hussampw/shoppingcart/license)](https://packagist.org/packages/hussampw/shoppingcart)
 
-This is a fork of [bumbummen99's LaravelShoppingcart](https://github.com/bumbummen99/LaravelShoppingcart) extended with minor features compatible with Laravel 10+. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
+This is a fork of [bumbummen99's LaravelShoppingcart](https://github.com/bumbummen99/LaravelShoppingcart) extended with minor features compatible with Laravel 11+. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
 
 ## Installation
 
-Install the [package](https://packagist.org/packages/anayarojo/shoppingcart) through [Composer](http://getcomposer.org/). 
+Install the [package](https://packagist.org/packages/hussampw/shoppingcart) through [Composer](http://getcomposer.org/). 
 
 Run the Composer require command from the Terminal:
 
-    composer require anayarojo/shoppingcart
+    composer require hussampw/shoppingcart
 
 Now you're ready to start using the Laravel Shopping Cart in your application.
 
@@ -754,8 +754,8 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/anayarojo">
-            <img src="https://avatars.githubusercontent.com/u/6903495?v=4" width="100;" alt="anayarojo"/>
+        <a href="https://github.com/hussampw">
+            <img src="https://avatars.githubusercontent.com/u/6903495?v=4" width="100;" alt="hussampw"/>
             <br />
             <sub><b>Raul Anaya Rojo</b></sub>
         </a>
